@@ -1,0 +1,6 @@
+requests
+Pillow
+face_recognition
+urllib3
+uvicorn
+fastapi
